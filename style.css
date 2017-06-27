@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0
+}
+canvas {
+  background: rgba(147,206,222,1);
+  display: block;
+  margin: 0 auto;
+  vertical-align: middle;
+}
